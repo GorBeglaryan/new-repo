@@ -1,0 +1,10 @@
+Untracked -> git֊ը չի հետևում
+Staged -> գտնվում են git-ի հսկողության տակ
+Modified
+
+
+
+master - main
+
+
+switch - checkout
